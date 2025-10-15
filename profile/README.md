@@ -46,8 +46,8 @@
 
 <hr />
 
-<h2>🚀 <b>Stack de Tecnologias:</b></h2>
-<p>
+<h2 align="center">🚀 <b>Stack de Tecnologias:</b></h2>
+<p align="center">
   <img
     src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     alt="React"
@@ -69,7 +69,7 @@
 <hr />
 
 <h2 align="center">📫 <b>Contato:</b></h2>
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/solar-instituto" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
