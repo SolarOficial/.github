@@ -68,21 +68,21 @@
 
 <hr />
 
-<h2>📫 <b>Contato:</b></h2>
+<h2 align="center">📫 <b>Contato:</b></h2>
 <p>
-  <a href="https://linkedin.com/in/solar-instituto" target="_blank">
+  <a href="https://linkedin.com/in/solar-instituto" target="blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
     />
   </a>
-  <a href="https://instagram.com/solarinstituto.oficial/" target="_blank">
+  <a href="https://instagram.com/solarinstituto.oficial/" target="blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
     />
   </a>
-  <a href="https://linktr.ee/SoLarInstituto" target="_blank">
+  <a href="https://linktr.ee/SoLarInstituto" target="blank">
     <img
       src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
       alt="Linktree"
@@ -97,7 +97,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/giovanni-carvalho-/" target="_blank">
+      <a href="https://www.linkedin.com/in/giovanni-carvalho-/" target="blank">
         <img
           src="./imagens/Giovanni.jpeg"
           alt="Giovanni Product Owner e Financeiro"
@@ -109,7 +109,7 @@
       <br /><sub>Product Owner</sub> <br /><sub>Financeiro</sub>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/camille-cordeiro/" target="_blank">
+      <a href="https://www.linkedin.com/in/camille-cordeiro/" target="blank">
         <img
           src="./imagens/camille.png"
           alt="Camille SCRUM MASTER/DESENVOLVEDORA BACK-END​"
@@ -121,7 +121,7 @@
       <br /><sub>Scrum Master</sub> <br /><sub>Desenvolvedora Back-End</sub>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/luiz-fsfagundes/" target="_blank">
+      <a href="https://www.linkedin.com/in/luiz-fsfagundes/" target="blank">
         <img
           src="./imagens/luiz.jpeg"
           alt="Luiz Desenvolvedor Backend e UI/UX"
@@ -133,7 +133,7 @@
       <br /><sub>Desenvolvedor Back-End</sub> <br /><sub>UI/UX</sub>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/karina-fabricio/" target="_blank">
+      <a href="https://www.linkedin.com/in/karina-fabricio/" target="blank">
         <img
           src="./imagens/Karina.jpeg"
           alt="Karina DESENVOLVEDORA FULLSTACK/MARKETING​"
@@ -147,7 +147,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/gabrielbatistela/" target="_blank">
+      <a href="https://www.linkedin.com/in/gabrielbatistela/" target="blank">
         <img
           src="./imagens/Daluncio.jpeg"
           alt="Gabriel DESENVOLVEDOR FRONT-END​"
@@ -161,7 +161,7 @@
     <td align="center">
       <a
         href="https://www.linkedin.com/in/larissaolivsantos07/"
-        target="_blank"
+        target="blank"
       >
         <img
           src="./imagens/Larissa.jpeg"
@@ -174,7 +174,7 @@
       <br /><sub>Desenvolvedora FullStack</sub> <br /><sub>Banco de Dados</sub>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/thallyabianka/" target="_blank">
+      <a href="https://www.linkedin.com/in/thallyabianka/" target="blank">
         <img
           src="./imagens/thallya.png"
           alt="thallya Marketing e UI/UX"
@@ -186,7 +186,7 @@
       <br /><sub>Marketing e UI/UX</sub>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/igor-limasilva/" target="_blank">
+      <a href="https://www.linkedin.com/in/igor-limasilva/" target="blank">
         <img
           src="./imagens/Igor.jpeg"
           alt="Igor Desenvolvedor FULLSTACK"
