@@ -202,7 +202,7 @@
 
 <p align="center">
   <b
-    >Conectando, apoiando e fortalecendo a rede de pais e mães solos por meio de
+    >Conectar, apoiar e fortaler pais e mães solos por meio de
     tecnologia, acolhimento e informação. 💜</b
   >
 </p>
