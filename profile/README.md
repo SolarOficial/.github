@@ -92,7 +92,7 @@
 
 <hr />
 
-<h2 align="center">🫂 <b>Conheça a equipe</b></h2>
+<h2 align="center">🫂 <b>Conheça a equipe:</b></h2>
 
 <table align="center">
   <tr>
