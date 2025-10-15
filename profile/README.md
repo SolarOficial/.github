@@ -166,7 +166,7 @@
         <img
           src="./imagens/Larissa.jpeg"
           alt="Larissa DESENVOLVEDORA FULLSTACK/BANCO DE DADOS​"
-          width="140"
+          width="144"
           height="140"
         />
         <br /><b>Larissa</b>
@@ -191,7 +191,7 @@
           src="./imagens/Igor.jpeg"
           alt="Igor Desenvolvedor FULLSTACK"
           width="140"
-          height="140"
+          height="144"
         />
         <br /><b>Igor</b>
       </a>
