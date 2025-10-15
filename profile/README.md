@@ -99,7 +99,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/giovanni-carvalho-/" target="_blank">
         <img
-          src="./img/Giovanni.jpeg"
+          src="./imagens/Giovanni.jpeg"
           alt="Giovanni Product Owner e Financeiro"
           width="140"
           height="140"
@@ -111,7 +111,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/camille-cordeiro/" target="_blank">
         <img
-          src="./img/camille.png"
+          src="./imagens/camille.png"
           alt="Camille SCRUM MASTER/DESENVOLVEDORA BACK-END​"
           width="140"
           height="140"
@@ -123,7 +123,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/luiz-fsfagundes/" target="_blank">
         <img
-          src="./img/luiz.jpeg"
+          src="./imagens/luiz.jpeg"
           alt="Luiz Desenvolvedor Backend e UI/UX"
           width="140"
           height="140"
@@ -135,7 +135,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/karina-fabricio/" target="_blank">
         <img
-          src="./img/Karina.jpeg"
+          src="./imagens/Karina.jpeg"
           alt="Karina DESENVOLVEDORA FULLSTACK/MARKETING​"
           width="140"
           height="140"
@@ -149,7 +149,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/gabrielbatistela/" target="_blank">
         <img
-          src="./img/Daluncio.jpeg"
+          src="./imagens/Daluncio.jpeg"
           alt="Gabriel DESENVOLVEDOR FRONT-END​"
           width="140"
           height="140"
@@ -164,7 +164,7 @@
         target="_blank"
       >
         <img
-          src="./img/Larissa.jpeg"
+          src="./imagens/Larissa.jpeg"
           alt="Larissa DESENVOLVEDORA FULLSTACK/BANCO DE DADOS​"
           width="170"
           height="150"
@@ -176,7 +176,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/thallyabianka/" target="_blank">
         <img
-          src="./img/thallya.png"
+          src="./imagens/thallya.png"
           alt="thallya Marketing e UI/UX"
           width="140"
           height="140"
