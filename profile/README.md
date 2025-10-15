@@ -200,8 +200,6 @@
   </tr>
 </table>
 
-<hr />
-
 <p align="center">
   <b
     >Conectando, apoiando e fortalecendo a rede de pais e mães solos por meio de
