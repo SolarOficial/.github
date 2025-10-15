@@ -41,7 +41,7 @@
 
 <h2>🎨 <b>Paleta:</b></h2>
 <p align="center">
-  <img width="913" height="624" alt="Image" src="./img/paleta.jpg" />
+  <img width="913" height="624" alt="Image" src="./imagens/paleta.jpg" />
 </p>
 
 <hr />
