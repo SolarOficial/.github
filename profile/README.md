@@ -1,7 +1,7 @@
 <h1 align="center"><b>Olá! somos a SOLAR 🌞</b></h1>
 
 <p align="center">
-  <img width="753" height="327" alt="Image" src="./img/slogam.png" />
+  <img width="753" height="327" alt="Image" src="./imagens/slogam.png" />
 </p>
 
 <h2><b>Propósito:</b></h2>
@@ -188,7 +188,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/igor-limasilva/" target="_blank">
         <img
-          src="./img/Igor.jpeg"
+          src="./imagens/Igor.jpeg"
           alt="Igor Desenvolvedor FULLSTACK"
           width="140"
           height="170"
