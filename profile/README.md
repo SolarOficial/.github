@@ -149,7 +149,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/gabrielbatistela/" target="blank">
         <img
-          src="./imagens/Daluncio.jpeg"
+          src="./imagens/Gabriel.jpeg"
           alt="Gabriel DESENVOLVEDOR FRONT-END​"
           width="140"
           height="140"
