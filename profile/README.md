@@ -76,7 +76,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://instagram.com/solarinstituto.oficial/" target="blank">
+  <a href="https://www.instagram.com/solar.plataforma/" target="blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
