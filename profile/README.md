@@ -82,7 +82,7 @@
       alt="Instagram"
     />
   </a>
-  <a href="https://linktr.ee/SoLarInstituto" target="blank">
+  <a href="https://linktr.ee/SolarOficial" target="blank">
     <img
       src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"
       alt="Linktree"
