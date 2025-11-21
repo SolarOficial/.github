@@ -1,4 +1,4 @@
-<h1 align="center"><b>Olá! somos a SOLAR 🌞</b></h1>
+<h1 align="center"><b>Olá! Somos a SOLAR 🌞</b></h1>
 
 <p align="center">
   <img width="753" height="327" alt="Image" src="./imagens/slogam.png" />
