@@ -121,13 +121,12 @@
           src="./imagens/Giovanni.jpeg"
           alt="Giovanni Product Owner e Financeiro"
           width="140"
+          height="140"
         />
         <br /><b>Giovanni</b>
       </a>
       <br /><sub>Product Owner</sub> <br /><sub>Financeiro</sub>
     </td>
-
-    
     <td align="center">
       <a href="https://www.linkedin.com/in/camille-cordeiro/" target="blank">
         <img
@@ -140,8 +139,6 @@
       </a>
       <br /><sub>Scrum Master</sub> <br /><sub>Desenvolvedora Back-End</sub>
     </td>
-
-    
     <td align="center">
       <a href="https://www.linkedin.com/in/luiz-fsfagundes/" target="blank">
         <img
@@ -154,8 +151,6 @@
       </a>
       <br /><sub>Desenvolvedor Back-End</sub> <br /><sub>UI/UX</sub>
     </td>
-
-    
     <td align="center">
       <a href="https://www.linkedin.com/in/karina-fabricio/" target="blank">
         <img
@@ -170,22 +165,18 @@
     </td>
   </tr>
   <tr>
-
-    
     <td align="center">
       <a href="https://www.linkedin.com/in/gabrielbatistela/" target="blank">
         <img
           src="./imagens/Gabriel.jpeg"
           alt="Gabriel DESENVOLVEDOR FRONT-END​"
           width="140"
-          
+          height="140"
         />
         <br /><b>Gabriel</b>
       </a>
       <br /><sub>Desenvolvedor Front-End</sub>
     </td>
-
-    
     <td align="center">
       <a
         href="https://www.linkedin.com/in/larissaolivsantos07/"
@@ -196,14 +187,11 @@
           alt="Larissa DESENVOLVEDORA FULLSTACK/BANCO DE DADOS​"
           width="144"
           height="140"
-          
         />
         <br /><b>Larissa</b>
       </a>
       <br /><sub>Desenvolvedora FullStack</sub> <br /><sub>Banco de Dados</sub>
     </td>
-
-    
     <td align="center">
       <a href="https://www.linkedin.com/in/thallyabianka/" target="blank">
         <img
@@ -216,15 +204,13 @@
       </a>
       <br /><sub>Marketing e UI/UX</sub>
     </td>
-
-    
     <td align="center">
       <a href="https://www.linkedin.com/in/igor-limasilva/" target="blank">
         <img
           src="./imagens/Igor.jpeg"
           alt="Igor Desenvolvedor FULLSTACK"
           width="140"
-          height="140" 
+          height="144"
         />
         <br /><b>Igor</b>
       </a>
