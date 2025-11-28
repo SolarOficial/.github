@@ -133,6 +133,7 @@
           src="./imagens/camille.png"
           alt="Camille SCRUM MASTER/DESENVOLVEDORA BACK-END​"
           width="140"
+          heigth="140"
           
         />
         <br /><b>Camille</b>
