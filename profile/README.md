@@ -118,7 +118,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/giovanni-carvalho-/" target="blank">
         <img
-          src="./imagens/Giovanni.jpeg"
+          src="./imagens/Giovanni.jpg"
           alt="Giovanni Product Owner e Financeiro"
           width="200"
           height="200"
