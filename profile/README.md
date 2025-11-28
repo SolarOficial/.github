@@ -120,8 +120,8 @@
         <img
           src="./imagens/Giovanni.jpeg"
           alt="Giovanni Product Owner e Financeiro"
-          width="140"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Giovanni</b>
       </a>
@@ -132,8 +132,8 @@
         <img
           src="./imagens/camille.png"
           alt="Camille SCRUM MASTER/DESENVOLVEDORA BACK-END​"
-          width="140"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Camille</b>
       </a>
@@ -144,8 +144,8 @@
         <img
           src="./imagens/luiz.jpeg"
           alt="Luiz Desenvolvedor Backend e UI/UX"
-          width="140"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Luiz Fellipe</b>
       </a>
@@ -156,8 +156,8 @@
         <img
           src="./imagens/Karina.jpeg"
           alt="Karina DESENVOLVEDORA FULLSTACK/MARKETING​"
-          width="140"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Karina</b>
       </a>
@@ -170,8 +170,8 @@
         <img
           src="./imagens/Gabriel.jpeg"
           alt="Gabriel DESENVOLVEDOR FRONT-END​"
-          width="140"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Gabriel</b>
       </a>
@@ -185,8 +185,8 @@
         <img
           src="./imagens/Larissa.jpeg"
           alt="Larissa DESENVOLVEDORA FULLSTACK/BANCO DE DADOS​"
-          width="144"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Larissa</b>
       </a>
@@ -197,8 +197,8 @@
         <img
           src="./imagens/thallya.png"
           alt="thallya Marketing e UI/UX"
-          width="140"
-          height="140"
+          width="120"
+          height="120"
         />
         <br /><b>Thallya</b>
       </a>
@@ -209,8 +209,8 @@
         <img
           src="./imagens/Igor.jpeg"
           alt="Igor Desenvolvedor FULLSTACK"
-          width="140"
-          height="144"
+          width="120"
+          height="120"
         />
         <br /><b>Igor</b>
       </a>
