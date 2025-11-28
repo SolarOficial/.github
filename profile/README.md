@@ -132,6 +132,8 @@
         <img
           src="./imagens/camille.jpg"
           alt="Camille SCRUM MASTER/DESENVOLVEDORA BACK-END​"
+          width="200"
+          height="200"
         />
         <br /><b>Camille</b>
       </a>
@@ -166,7 +168,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/gabrielbatistela/" target="blank">
         <img
-          src="./imagens/Gabriel.jpeg"
+          src="./imagens/Gabriel.jpg"
           alt="Gabriel DESENVOLVEDOR FRONT-END​"
           width="200"
           height="200"
@@ -181,7 +183,7 @@
         target="blank"
       >
         <img
-          src="./imagens/Larissa.jpeg"
+          src="./imagens/Larissa.jpg"
           alt="Larissa DESENVOLVEDORA FULLSTACK/BANCO DE DADOS​"
           width="200"
           height="200"
@@ -193,7 +195,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/thallyabianka/" target="blank">
         <img
-          src="./imagens/thallya.png"
+          src="./imagens/thallya.jpg"
           alt="thallya Marketing e UI/UX"
           width="200"
           height="200"
@@ -205,7 +207,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/igor-limasilva/" target="blank">
         <img
-          src="./imagens/Igor.jpeg"
+          src="./imagens/Igor.jpg"
           alt="Igor Desenvolvedor FULLSTACK"
           width="200"
           height="200"
