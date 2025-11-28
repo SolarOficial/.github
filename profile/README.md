@@ -130,10 +130,8 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/camille-cordeiro/" target="blank">
         <img
-          src="./imagens/camille.png"
+          src="./imagens/camille.jpg"
           alt="Camille SCRUM MASTER/DESENVOLVEDORA BACK-END​"
-          width="200"
-          height="200"
         />
         <br /><b>Camille</b>
       </a>
@@ -142,7 +140,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/luiz-fsfagundes/" target="blank">
         <img
-          src="./imagens/luiz.jpeg"
+          src="./imagens/luiz.jpg"
           alt="Luiz Desenvolvedor Backend e UI/UX"
           width="200"
           height="200"
@@ -154,7 +152,7 @@
     <td align="center">
       <a href="https://www.linkedin.com/in/karina-fabricio/" target="blank">
         <img
-          src="./imagens/Karina.jpeg"
+          src="./imagens/Karina.jpg"
           alt="Karina DESENVOLVEDORA FULLSTACK/MARKETING​"
           width="200"
           height="200"
