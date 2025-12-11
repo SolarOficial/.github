@@ -107,7 +107,14 @@
       alt="Linktree"
     />
   </a>
+  <a href="https://plataformasolar.vercel.app/" target="blank">
+    <img
+      src="https://img.shields.io/badge/Acesse%20o%20nosso%20site-FFB800?style=for-the-badge&logo=googlechrome&logoColor=black"
+      alt="Site"
+    />
+  </a>
 </p>
+
 
 <hr />
 
